@@ -892,6 +892,7 @@ ul[class*="list"] {
 
 .modal-input:focus {
   border: 1px solid var(--accent-color);
+  cursor: pointer;
 }
 
 .user-data-icon {
