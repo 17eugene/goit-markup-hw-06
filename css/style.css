@@ -553,7 +553,7 @@ img {
 
 .address-container {
   margin-right: 70px;
-  width: 231px;
+  min-width: 231px;
 }
 
 .social-footer-container {
